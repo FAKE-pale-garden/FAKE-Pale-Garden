@@ -7,7 +7,7 @@
 <tr>
 <td width="52%" align="middle" valign="Middle">
 
-## C+H freely ' minor ㅤㅤㅤㅤㅤㅤㅤㅤㅤ Whisper to Int, otherwise I wont respond
+## C+H freely ' minor ㅤㅤㅤㅤㅤㅤㅤㅤㅤ Whisper to Int, otherwise I wont respond ㅤGift me Swight skins I beg
 
 <br>
 
@@ -87,3 +87,4 @@
 <br>
 
 </div>
+
