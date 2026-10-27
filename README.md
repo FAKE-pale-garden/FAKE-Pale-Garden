@@ -12,15 +12,15 @@
 <br>
 
 <a href="YOURLINK_1">
-<img width="150" alt="hothothotfire" src="https://github.com/user-attachments/assets/af1e9127-327e-49a8-bd19-aea063000030" />
+<img width="120" alt="hothothotfire" src="https://github.com/user-attachments/assets/af1e9127-327e-49a8-bd19-aea063000030" />
 
 </a>
 <a href="YOURLINK_2">
-<img width="150" alt="hollowpurple" src="https://github.com/user-attachments/assets/7688feb8-acaa-4057-9326-46f37a806b0f" />
+<img width="120" alt="hollowpurple" src="https://github.com/user-attachments/assets/7688feb8-acaa-4057-9326-46f37a806b0f" />
 
 </a>
 <a href="YOURLINK_3">
-<img width="150" alt="blue sworc" src="https://github.com/user-attachments/assets/2a184a23-40c0-4979-89ed-eea43ad8c55d" />
+<img width="120" alt="blue sworc" src="https://github.com/user-attachments/assets/2a184a23-40c0-4979-89ed-eea43ad8c55d" />
 
 
 </a>
